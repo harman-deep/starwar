@@ -66,3 +66,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### `addition functionality`
+
+You can also see characters profile by importing CharacterProfile component in App.js.I didnot do it as it was not required for this specfic project
